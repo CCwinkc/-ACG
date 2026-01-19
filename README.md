@@ -2,7 +2,7 @@
 - 摸摸鱼ACG是一个免费分享galgame游戏资源的网站。
 
 ## 🔗 摸摸鱼ACG最新地址
-- 导航页：
+- 导航页：https://nav.ccwink.com
 - 主站：https://acgs.ccwink.com
 
 ## 📢 实时更新渠道
